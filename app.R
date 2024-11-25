@@ -9,7 +9,7 @@ library(udpipe)
 library(googlesheets4)
 
 options(gargle_oauth_cache = "secrets",
-        gargle_oauth_email = "manuel.cebral@tec.mx")
+        gargle_oauth_email = "youremail@email.com")
 
 gs4_auth()
 
